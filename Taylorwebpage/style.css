@@ -1,0 +1,36 @@
+body{
+  background-color:  PeachPuff;
+  font-family:arial, helvetica, sans-serif;
+  margin:10px 20px 10px 20px
+}
+
+p {
+  text-shadow: 1px 1px 1px #000;
+}
+
+h1, h2{
+  color: black;
+  font-size: 37px;
+  text-align:center;
+}
+
+img{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+h1 {
+    border: 5px solid black;
+}
+
+h2 {
+    border: 4px dotted black;
+}
+
+div {
+    border: double;
+}
+iframe{
+
+}
